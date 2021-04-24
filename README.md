@@ -1,2 +1,5 @@
 # rs_homework
-2021年推荐系统作业
+### PMF，概率矩阵分解
+* 数据集：movieLens 100k
+* 实验结果
+![pmf](https://github.com/zzhin/rs_homework/raw/work01/pmf-pytorch/result.png)
